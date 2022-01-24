@@ -1,13 +1,15 @@
 {
+  "name": "aluracord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sarahBortoloti/aluracord-matrix.git",
+  "author": "sarahBortoloti <sarah.bortoloti.15@gmail.com>",
+  "license": "MIT",
   "dependencies": {
-    "@skynexui/components": "^1.23.5",
-    "licence": "MIT",
-    "main": "index.js",
-    "name": "aluracord",
+    "@skynexui/components": "^1.23.6",
     "next": "^12.0.8",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "version": "1.0.0"
+    "react-dom": "^17.0.2"
   },
   "scripts": {
     "dev": "next dev",
